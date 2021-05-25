@@ -1,12 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Brito</h1>
+<h3 align="center">An information systems student focused on Web Front-end development</h3>
+
+
+- 🔭 I am currently an intern at NExTi
+
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, ReactJS, NodeJS**
+
+- 📫 How to reach me **gabrielbrito.dev@gmail.com**
+
 
 <!--
+
 **gboliveir/gboliveir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript, CSS, NodeJS, ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
