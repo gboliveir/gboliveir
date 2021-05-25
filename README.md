@@ -4,7 +4,7 @@
 
 - 🔭 I am currently an intern at NExTi
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, ReactJS, NodeJS**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, ReactJS, NodeJS and SASS**.
 
 - 📫 How to reach me **gabrielbrito.dev@gmail.com**
 
