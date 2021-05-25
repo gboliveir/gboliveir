@@ -1,5 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Brito</h1>
-<h3 align="center">An information systems student focused on Web Front-end development</h3>
+<h3 align="center">An Information Systems student focused on Web front-end development</h3>
 
 
 - 🔭 I am currently an intern at NExTi
