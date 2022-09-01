@@ -1,26 +1,10 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Brito</h1>
-<h3 align="center">An Information Systems student focused on Web front-end development</h3>
+# Gabriel Brito
 
+Desenvolvedor front-end | Neogrid.
 
-- 🔭 I am currently an intern at NExTi
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Brito-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-brito-260319205/)](https://www.linkedin.com/in/gabriel-brito-260319205/) 
+[![Gmail Badge](https://img.shields.io/badge/-gabrielbrito.dev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbrito.dev@gmail.com)](mailto:gabrielbrito.dev@gmail.com)
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, ReactJS, NodeJS and SASS**.
+Dedicado as tecnologias de desenvolvimento web.
 
-- 📫 How to reach me **gabrielbrito.dev@gmail.com**
-
-
-<!--
-
-**gboliveir/gboliveir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JavaScript, CSS, NodeJS, ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gamado no desenvolvimento front-end, sempre buscando aperfeiçoamento através da melhoria contínua.
