@@ -6,3 +6,5 @@ Sobre mim:
 - Desenvolvedor em Neogrid
 - Desenvolvedor Web desde 2021
 - [LinkedIn](https://www.linkedin.com/in/gabriel-brito-260319205/)
+
+Focado no aprimoramento contínuo de código e soluções inovadoras.
